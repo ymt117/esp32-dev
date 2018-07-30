@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\ymt\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\ymt\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\**",
+                "C:\\Users\\ymt\\Documents\\Arduino\\hardware\\espressif\\esp32\\**",
+                "D:\\arduino-nightly-windows\\arduino-nightly\\libraries\\ESP32_BLE_Arduino\\src\\**"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
