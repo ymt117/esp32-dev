@@ -1,4 +1,4 @@
-HardwareSerial gps(0);
+HardwareSerial gps(2);
 
 void setup() {
   // put your setup code here, to run once:
