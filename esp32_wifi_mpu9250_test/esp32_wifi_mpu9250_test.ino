@@ -28,8 +28,8 @@ ported for sparkfun esp32
 #include <WiFi.h>
 #include <MPU9250_asukiaaa.h>
 
-const char* ssid     = "fr33-wifi";
-const char* password = "pqmzy9kc8y8ic";
+const char* ssid     = "your-ssid";
+const char* password = "your-password";
 
 WiFiServer server(80);
 
